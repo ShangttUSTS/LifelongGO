@@ -8,7 +8,7 @@ performance.c
 # Dependencies
 * The code was developed and tested using python 3.7.
 * `pip xxx -i https://pypi.tuna.tsinghua.edu.cn/simple`
-* Clone the repository: `git clone https://github.com/ShangttUSTS/LifelongGo.git`
+* Clone the repository: `git clone https://github.com/ShangttUSTS/LifelongGO.git`
 * Create virtual environment with Conda or python3-venv module. 
 * `conda create -n llg python=3.7.16`
 * 1. Install requirements:
